@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171172987370",
+    "firebase_url": "https://demodatabase-f372a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demodatabase-f372a",
+    "storage_bucket": "demodatabase-f372a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171172987370:android:78871966aeab5f8d04b293",
+        "android_client_info": {
+          "package_name": "com.lamnt.firbasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171172987370-t1aa38lhlcv3ldrrmjcalkhu87ladv21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lamnt.firbasedatabase",
+            "certificate_hash": "ca2e19754e8033f06ea25e751ccec369c9024c0a"
+          }
+        },
+        {
+          "client_id": "171172987370-hiogje7vgdq8663lgq5osujaisc6thhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGW9Tm126RABPlxDVUXUpjOIEegSae2w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171172987370-hiogje7vgdq8663lgq5osujaisc6thhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
